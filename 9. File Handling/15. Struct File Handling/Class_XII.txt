@@ -1,4 +1,0 @@
-Roll_Number	Name	Age
-1	Mayank Dev	17
-2	Ojus Tripathi	17
-3	Arpit saheb	17
